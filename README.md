@@ -39,14 +39,11 @@ OOP-Bank-System
 
 ## Screenshots
 
-|Main Menu|Gameplay|
+|Output v1|Output v2|
 |---|---|
-|![Main Menu](assets/Main-menu.png)|![Gameplay](assets/Gameplay.png)|
+|![Output](assets/output-v1.png)| ![Output](assets/output-v2.png) |
 
 
-|Victory|Draw|
-|---|---|
-|![Victory](assets/Victory.png)|![Draw](assets/Draw.png)|
 
 
 ## How It Works
