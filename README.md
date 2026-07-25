@@ -51,9 +51,10 @@ OOP-Bank-System
 ## How It Works
 
 1. Account Initialization: Creates bank account instances with unique identifiers and initial deposits.  
-2. Transaction Validation: Verifies that transfer amounts are positive and that senders possess adequate funds (including overdraft limits where applicable).  
-3. Players input raw row and column values sequentially (values 1 through 3).  
-4. Execution & State Update: Adjusts balances across accounts safely and records transaction outcomes successfully.  
+2. Transaction Validation: Verifies that transfer amounts are positive and that senders possess adequate funds (including overdraft limits where applicable).
+3. Execution & State Update: Adjusts balances across accounts safely and records transaction outcomes successfully.  
+
+
 
 ## 📥 Cloning the Repository
 
