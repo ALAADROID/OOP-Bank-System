@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-17-orange)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue)
+![OOP](https://img.shields.io/badge/OOP-Java-success)
 
 # OOP-Bank-System
 
