@@ -4,6 +4,7 @@
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-Java-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
+![University Project](https://img.shields.io/badge/University-Project-informational)
 
 A robust Java-based banking simulation demonstrating core Object-Oriented Programming (OOP) principles, including inheritance, method overriding, encapsulation, and transaction processing.
 
