@@ -50,11 +50,11 @@ OOP-Bank-System
 
 ## How It Works
 
-1. Account Initialization: Creates bank account instances with unique identifiers and initial deposits.  
-2. Transaction Validation: Verifies that transfer amounts are positive and that senders possess adequate funds (including overdraft limits where applicable).
-3. Execution & State Update: Adjusts balances across accounts safely and records transaction outcomes successfully.  
-
-
+1. Create bank accounts with unique IDs and initial balances.
+2. Perform deposits and withdrawals with validation.
+3. Transfer funds securely between accounts.
+4. Demonstrate inheritance and polymorphism through specialized account types.
+5. Apply overdraft and commission rules in the advanced version.
 
 ## 📥 Cloning the Repository
 
@@ -65,7 +65,7 @@ cd OOP-Bank-System
 ```
 
 ### 🛠️ Compilation
-To compile the program using an standard Java compiler (javac), navigate to your desired version folder and run:
+To compile the program using a standard Java compiler (javac), navigate to your desired version folder and run:
 
 ```bash
 javac *.java
