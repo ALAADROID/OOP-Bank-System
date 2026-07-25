@@ -43,13 +43,13 @@ OOP-Bank-System
 
 ## Screenshots
 
-|Output v1|Output v2 (exm1)|
-|---|---|
-|![Output](assets/output-v1.png)| ![Output](assets/output-v2.png) |
+| Output v1 | Output v2 - Example 1 |
+|-----------|-----------------------|
+| ![Output](assets/output-v1.png) | ![Output](assets/output-v2-example-1.png) |
 
-|Output v2 (exm2)|Output v2 (exm3)|
-|---|---|
-|![Output](assets/output--v2.png)| ![Output](assets/output---v2.png) |
+| Output v2 - Example 2 | Output v2 - Example 3 |
+|-----------------------|-----------------------|
+| ![Output](assets/output-v2-example-2.png) | ![Output](assets/output-v2-example-3.png) |
 
 
 ## How It Works
