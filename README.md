@@ -39,11 +39,13 @@ OOP-Bank-System
 
 ## Screenshots
 
-|Output v1|Output v2|
+|Output v1|Output v2 (exm1)|
 |---|---|
 |![Output](assets/output-v1.png)| ![Output](assets/output-v2.png) |
 
-
+|Output v2 (exm2)|Output v2 (exm3)|
+|---|---|
+|![Output](assets/output--v2.png)| ![Output](assets/output---v2.png) |
 
 
 ## How It Works
