@@ -1,4 +1,4 @@
-# OOP-Bank-System
+# OOP Bank System
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-Java-success)
